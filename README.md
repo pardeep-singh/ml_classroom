@@ -1,14 +1,14 @@
 # Machine Learning Classroom
 
 This repository contains the material used for Machine Learning sessions conducted at Helpshift.
-Most of the content will be in the form of Jupyter notebooks & use Python 3.
+Most of the content will be in the form of Jupyter notebooks & we will use Python 3.
 
 ## Table of Content
 
 ### Python 3
 
 Beginner level proficiency is enough to understand the concepts & material used in this
-repository/class. In case you haven't used Python recently, you can refer to following chapters
+repository/class. In case you haven't used Python recently, please refer to following chapters
 from [A Byte of Python](https://python.swaroopch.com/) to understand the Python concepts
 which will be useful in understanding & exploring the code in this class/repository.
 
@@ -25,7 +25,8 @@ Also try to read the full book if possible.
 
 #### Using Docker(Recommended method)
 
-1. Install Docker by following the instructions given for different platforms on this [page](https://docs.docker.com/install/).
+1. Install Docker by following the instructions given for different platforms on this
+[page](https://docs.docker.com/install/).
 
 2. You can either pull the existing docker image or build your own image
 
@@ -45,7 +46,7 @@ Also try to read the full book if possible.
 
    `make run`
    
-5. Verify by visiting http://localhost:4545 in browser.
+5. Verify by visiting [URL](http://localhost:4545) in browser.
 
 #### Using Virtual Env
 
@@ -67,15 +68,15 @@ Also try to read the full book if possible.
 
    `jupyter notebook --port 4545`
    
-6. Verify by visiting http://localhost:4545 in browser.
+6. Verify by visiting [URL](http://localhost:4545) in browser.
 
 ### Roadmap
 
-- Class 1. [Exploratory Data Analysis using Covid19 Dataset](eda/covid19.ipynb)
-- Class 2. Naive Bayes for Text classification
-- Class 3. Logistic Regression for Text classification
-- Class 4. Tunning Logistic Regression model using regularisation
-- Class 5. TBD -> Either Ensemble Learning or Stochastic Logistic Regression
+- 1. [Exploratory Data Analysis using Covid19 Dataset](eda/covid19.ipynb)
+- 2. Text classification using Naive Bayes
+- 3. Text classification using Logistic Regression
+- 4. Tuning Logistic Regression model using Regularisation techniques
+- 5. [TBD] Ensemble Learning or Stochastic Logistic Regression
 
 ## Datasets References
 

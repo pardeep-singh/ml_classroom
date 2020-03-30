@@ -142,6 +142,10 @@ cython_debug/
 media
 static
 
+# PyCharm
+
+.idea/
+
 # Solutions
 
 *solutions.ipynb

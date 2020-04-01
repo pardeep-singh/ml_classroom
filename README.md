@@ -72,12 +72,13 @@ Also try to read the full book if possible.
 
 ### Roadmap
 
-- 1. [Exploratory Data Analysis using Covid19 Dataset](eda/covid19.ipynb)
-- 2. Text classification using Naive Bayes
-- 3. Text classification using Logistic Regression
-- 4. Tuning Logistic Regression model using Regularisation techniques
-- 5. [TBD] Ensemble Learning or Stochastic Logistic Regression
+1. [Exploratory Data Analysis using Covid19 Dataset](eda/covid19.ipynb)
+2. Text classification using Naive Bayes
+3. Text classification using Logistic Regression
+4. Tuning Logistic Regression model using Regularisation techniques
+5. [TBD] Ensemble Learning or Stochastic Logistic Regression
 
 ## Datasets References
 
 - [Kaggle: Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+

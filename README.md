@@ -77,6 +77,7 @@ Also try to read the full book if possible.
 3. Text classification using Logistic Regression
 4. Tuning Logistic Regression model using Regularisation techniques
 5. Ensemble Learning
+6. Mini Project
 
 ## Datasets References
 

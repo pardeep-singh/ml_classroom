@@ -73,12 +73,14 @@ Also try to read the full book if possible.
 ### Roadmap
 
 1. [Exploratory Data Analysis using Covid19 Dataset](eda/covid19.ipynb)
-2. Text classification using Naive Bayes
+2. [Text classification using Naive Bayes](text_classification_with_naive_bayes/consumer_complaints_classification.ipynb)
 3. Text classification using Logistic Regression
 4. Tuning Logistic Regression model using Regularisation techniques
-5. [TBD] Ensemble Learning or Stochastic Logistic Regression
+5. Ensemble Learning
+6. Mini Project
 
 ## Datasets References
 
 - [Kaggle: Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+- [Kaggle: Consumer Finance Complaints Dataset](https://www.kaggle.com/selener/consumer-complaint-database)
 

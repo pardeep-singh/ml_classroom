@@ -75,7 +75,7 @@ Also try to read the full book if possible.
 1. [Exploratory Data Analysis using Covid19 Dataset](eda/covid19.ipynb)
 2. [Text classification using Naive Bayes](text_classification_using_naive_bayes/consumer_complaints_classification.ipynb)
 3. [Text classification using Logistic Regression](text_classification_using_logistic_regression/consumer_complaints_classification.ipynb)
-4. Tuning Logistic Regression model using Regularisation techniques
+4. [Tuning Logistic Regression model using Regularization techniques](text_classification_using_regularized_logistic_regression/consumer_complaints_classification.ipynb)
 5. Ensemble Learning
 6. Mini Project
 

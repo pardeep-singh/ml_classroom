@@ -76,7 +76,7 @@ Also try to read the full book if possible.
 2. [Text classification using Naive Bayes](text_classification_using_naive_bayes/consumer_complaints_classification.ipynb)
 3. [Text classification using Logistic Regression](text_classification_using_logistic_regression/consumer_complaints_classification.ipynb)
 4. [Tuning Logistic Regression model using Regularization techniques](text_classification_using_regularized_logistic_regression/consumer_complaints_classification.ipynb)
-5. Ensemble Learning
+5. [Text classification using Ensemble Model](text_classification_using_ensemble_model/consumer_complaints_classification.ipynb)
 6. Mini Project
 
 ## Datasets References

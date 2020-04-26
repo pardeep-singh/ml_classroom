@@ -77,10 +77,11 @@ Also try to read the full book if possible.
 3. [Text classification using Logistic Regression](text_classification_using_logistic_regression/consumer_complaints_classification.ipynb)
 4. [Tuning Logistic Regression model using Regularization techniques](text_classification_using_regularized_logistic_regression/consumer_complaints_classification.ipynb)
 5. [Text classification using Ensemble Model](text_classification_using_ensemble_model/consumer_complaints_classification.ipynb)
-6. Mini Project
+6. [Mini Project: Sentiment Analysis of IMDB Movie Reviews](mini_project/imdb_sentiment_analysis.ipynb)
 
 ## Datasets References
 
 - [Kaggle: Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 - [Kaggle: Consumer Finance Complaints Dataset](https://www.kaggle.com/selener/consumer-complaint-database)
+- [Kaggle: IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 

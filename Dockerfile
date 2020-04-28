@@ -6,4 +6,8 @@ COPY requirements.txt /
 
 RUN pip install --no-cache-dir -r /requirements.txt
 
+RUN jupyter contrib nbextension install --user
+
+RUN jupyter nbextensions_configurator enable --user
+
 EXPOSE 8888

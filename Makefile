@@ -1,5 +1,5 @@
 DOCKER_IMAGE_NAME = pardeep/ml_classroom
-LATEST_IMAGE_TAG = v1
+LATEST_IMAGE_TAG = v2
 CONTAINER_NAME = ml-classroom
 
 pull:
